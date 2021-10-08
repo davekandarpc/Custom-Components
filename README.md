@@ -37,5 +37,13 @@ then after we can take indicatore view means loader view
 
 ![image](https://user-images.githubusercontent.com/4476493/136535331-280c2bf7-7b6b-420a-8cc3-9b812defb028.png)
 
+whole componet code is below
+
+![image](https://user-images.githubusercontent.com/4476493/136540426-0a101e87-744c-4838-92e3-e0daa614d3af.png)
+
+# How can we Use Component in other screen
+
+we import component from component folder (in my case i have one folder name as component) and use direct. you can   
+
  
 
