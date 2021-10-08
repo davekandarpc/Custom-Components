@@ -118,7 +118,7 @@ you can add setCheck method using useState like below
 
 ![image](https://user-images.githubusercontent.com/4476493/136553763-791799ac-8d86-481d-8d64-a953f769c42a.png)
 
-now you do code like below
+now you do code using this check box can also create radio button also like below
 
 ![image](https://user-images.githubusercontent.com/4476493/136553922-6f1d4d7d-1b30-4d09-8866-7ab8a21656ef.png)
 
