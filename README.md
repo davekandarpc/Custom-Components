@@ -101,6 +101,7 @@ there is some design checkboxStyle
 ![image](https://user-images.githubusercontent.com/4476493/136547169-52cec173-e9ff-4b94-b32d-3bf4904fef41.png)
 
 now we do logic when user click on checkbox it's selected and when we click again it's unselected for select and  unselect there is onpress method it take true false
+
 ![image](https://user-images.githubusercontent.com/4476493/136551718-7a606832-cfc8-4cb4-995d-b7d308212017.png)
 
 
