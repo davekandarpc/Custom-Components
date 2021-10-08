@@ -2,7 +2,7 @@
 This repo consists custom components that React Native does not provide officially.
 
 
-# Lazy Image
+# 1. Lazy Image
 Lazy image we can use many places in our routing project when we get image data from rest api that time it take some time that time we can handle image to using our component lazy
 image
   for creating Lazy image we can cretae one component lazyImage using this we can handle it. lazy image we can take image tag and one indicatore For lazyimage component first we need to add "ActivityIndicator" from react-native
