@@ -41,9 +41,34 @@ whole componet code is below
 
 ![image](https://user-images.githubusercontent.com/4476493/136540426-0a101e87-744c-4838-92e3-e0daa614d3af.png)
 
-# How can we Use Component in other screen
+# How can we use component in other screen
 
-we import component from component folder (in my case i have one folder name as component) and use direct. you can   
+we import component from component folder (in my case i have one folder name as component) and use direct. you check below
+
+![image](https://user-images.githubusercontent.com/4476493/136541631-20061f11-a1c6-46b7-ab4c-72bbb2faaaa3.png)
+
+In default LazyImage you need only image url like below
+
+![image](https://user-images.githubusercontent.com/4476493/136541788-fe596fb1-810d-4589-b938-9f551f5211ce.png)
+
+you can also add loader color like below
+
+![image](https://user-images.githubusercontent.com/4476493/136541936-efc63d92-5136-4aeb-bd5f-544d5a2b3d23.png)
+
+you can also take your own Active indicator
+
+![image](https://user-images.githubusercontent.com/4476493/136542325-75f8eb3b-ea98-44a4-9efb-753c6583e232.png)
+
+whole code
+
+![image](https://user-images.githubusercontent.com/4476493/136542866-1bb58f21-b1c7-454c-854f-ae06b36f1a04.png)
+
+
+# output
+
+
+![loader](https://user-images.githubusercontent.com/4476493/136544393-025be6d0-19eb-475e-b0d0-5fe71935cf04.gif)
+
 
  
 
