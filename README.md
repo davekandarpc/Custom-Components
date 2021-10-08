@@ -29,9 +29,13 @@ loaded variable default false but when image load successfully in tag that time 
 
 
 
-we take one view to load loader
+now we need to set loader on image so we take one view and give position absolute to it when we used position absolute that time view is over on image tag so first we need style it like below
+
+![image](https://user-images.githubusercontent.com/4476493/136539960-727362e7-7704-41b5-9416-9d58372e7aa7.png)
+
+then after we can take indicatore view means loader view
 
 ![image](https://user-images.githubusercontent.com/4476493/136535331-280c2bf7-7b6b-420a-8cc3-9b812defb028.png)
 
-
+ 
 
