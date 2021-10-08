@@ -108,6 +108,25 @@ whole component code
 
 ![image](https://user-images.githubusercontent.com/4476493/136552861-a7886547-7a73-4220-9d8e-441b92e713ce.png)
 
+# How can we use component in other screen
+
+we import component from component folder (in my case i have one folder name as component) and use direct also add vector ico. you check below
+
+![image](https://user-images.githubusercontent.com/4476493/136553686-00be3a88-7e0f-430d-9df8-1e492d814a00.png)
+
+you can add setCheck method using useState like below
+
+![image](https://user-images.githubusercontent.com/4476493/136553763-791799ac-8d86-481d-8d64-a953f769c42a.png)
+
+now you do code like below
+
+![image](https://user-images.githubusercontent.com/4476493/136553922-6f1d4d7d-1b30-4d09-8866-7ab8a21656ef.png)
+
+
+# output
+![ckeck](https://user-images.githubusercontent.com/4476493/136554047-4edc92ca-9d0b-45d0-8b8e-38e4417dbabc.gif)
+
+
 
 
 
