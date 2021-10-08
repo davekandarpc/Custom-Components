@@ -6,15 +6,17 @@ This repo consists custom components that React Native does not provide official
 Lazy image we can use many places in our routing project when we get image data from rest api that time it take some time that time we can handle image to using our component lazy
 image
   for creating Lazy image we can cretae one component lazyImage using this we can handle it. lazy image we can take image tag and one indicatore For lazyimage component first we need to add "ActivityIndicator" from react-native
-  in this componet we can also add imagestyle from other screen we add  
+ 
+  
+![image](https://user-images.githubusercontent.com/4476493/136534262-26d465fd-f924-47d2-a1e5-932314dc2c77.png)
+
+ in this componet we can also add imagestyle from other screen we add  
     
     imageWrapper,
     imageStyle,
     source,
     loader,
     loaderColor,
-  
-![image](https://user-images.githubusercontent.com/4476493/136534262-26d465fd-f924-47d2-a1e5-932314dc2c77.png)
 
 for loader we use useState method from react we delcare variable
 
