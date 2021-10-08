@@ -21,10 +21,12 @@ image
 so we can add all above in props
 
 for loader we use useState method from react we delcare variable
+loaded variable default false but when image load successfully in tag that time we use setLoaded method to change loaded value that time we used onLoadEnd properties in image tag it callback when image is uploaded so we change variable value calling setLoaded method in image
 
 ![image](https://user-images.githubusercontent.com/4476493/136534951-9d4b15b0-80ea-4b53-bfd4-fbdbfb9a2dba.png)
 
-now we start from adding image tag when onLoadEnd method call that time we setLoader false
+![image](https://user-images.githubusercontent.com/4476493/136539453-1c6af3a7-6a43-44cb-8f10-ff124693653d.png)
+
 
 
 we take one view to load loader
