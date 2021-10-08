@@ -69,6 +69,41 @@ whole code
 
 ![loader](https://user-images.githubusercontent.com/4476493/136544393-025be6d0-19eb-475e-b0d0-5fe71935cf04.gif)
 
-# 2 
- 
+# 2 CheckBox
+
+This component is used for multiple selection value react-native is not provide checkbox facility so, we create our own checkbox component an easy way so let's start
+
+first as usual we start at importing react and react native lib and that time we also add vector icon  plugin you need only below command
+
+"npm i react-native-vector-icons"
+
+for info you can use this https://github.com/oblador/react-native-vector-icons
+
+![image](https://user-images.githubusercontent.com/4476493/136545835-786988cc-b994-4aa5-af7a-c1370fdb777e.png)
+
+you can take props to use for parent properties used in component below are props variables
+
+    checked,
+    labelStyle,
+    onSelect,
+    label,
+    size,
+    color,
+    uncheckedIcon,
+    checkedIcon
+    
+for check box we need used to TouchableOpacity tag for click checkbox 
+
+![image](https://user-images.githubusercontent.com/4476493/136547000-897beee6-d227-43f8-aca9-c4d335b96a9f.png)
+
+there is some design checkboxStyle 
+
+![image](https://user-images.githubusercontent.com/4476493/136547169-52cec173-e9ff-4b94-b32d-3bf4904fef41.png)
+
+now we do logic when user click on checkbox it's selected and when we click again it's unselected for select and  unselect there is onpress method it take true false
+![image](https://user-images.githubusercontent.com/4476493/136551718-7a606832-cfc8-4cb4-995d-b7d308212017.png)
+
+
+
+
 
