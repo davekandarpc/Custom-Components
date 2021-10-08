@@ -104,6 +104,11 @@ now we do logic when user click on checkbox it's selected and when we click agai
 
 ![image](https://user-images.githubusercontent.com/4476493/136551718-7a606832-cfc8-4cb4-995d-b7d308212017.png)
 
+whole component code
+
+![image](https://user-images.githubusercontent.com/4476493/136552861-a7886547-7a73-4220-9d8e-441b92e713ce.png)
+
+
 
 
 
