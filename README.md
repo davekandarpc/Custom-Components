@@ -10,7 +10,7 @@ image
   
 ![image](https://user-images.githubusercontent.com/4476493/136534262-26d465fd-f924-47d2-a1e5-932314dc2c77.png)
 
- in this componet we can also add imagestyle from other screen we add  
+ in this component we can also add imagestyle from other screen we add  
     
     imageWrapper,
     imageStyle,
